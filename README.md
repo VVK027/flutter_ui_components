@@ -44,14 +44,6 @@ dependencies:
   flutter_ui_components: ^0.0.1
 ```
 
-For local development:
-
-```yaml
-dependencies:
-  flutter_ui_components:
-    path: ../path/to/flutter_ui_components
-```
-
 ### Theme setup
 
 Apply the kit themes to your `MaterialApp`:
